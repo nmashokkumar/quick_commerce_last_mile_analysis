@@ -91,7 +91,7 @@ st.markdown(
 
 @st.cache_resource
 def load_model():
-    return joblib.load("final_eta_model.pkl")
+    return joblib.load("model/final_eta_model.pkl")
 
 
 model = load_model()
