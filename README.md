@@ -79,7 +79,7 @@ This project uses historical order and delivery data to examine operational perf
 An improved ETA estimate can support better communication and planning, but **it does not itself make deliveries faster**. Improving delivery speed requires operational changes and further validation of the potential bottlenecks.
 
 ## 🚀 ETA Prediction App
- [LastMile Prediction app](https://github.com)
+ [LastMile Prediction app](https://lastmileprediction.streamlit.app)
 - Developed an interactive Streamlit application that estimates delivery duration from order and delivery inputs.
 - Inputs include store, distance, order hour, item counts, traffic level, and weather condition.
 - Automatically derives peak-hour and high-risk-condition indicators.
